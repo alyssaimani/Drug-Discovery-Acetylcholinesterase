@@ -10,7 +10,7 @@ Prediction of Molecular properties is one of a crucial task in drug discovery.
 Bioactivity values (e.g., IC50 values) are molecular properties which have commonly used to evaluate and select potential drug candidates. 
 To increase the efficiency in the process of drug discovery, lots of research have been conducted by implementing machine learning to do drug candidate screening. 
 Where, the implementation machine learning such as Random Forest and Extreme Gradient Boosting (XGBoost) can significantly reduce the number of in vitro test. 
-Natural Language Processing (NLP) especially Transformers, recently also became alternative to solve the challenge in drug discovery 
+Natural Language Processing (NLP) especially Transformers, recently became alternative to solve the challenge in drug discovery 
 which also have been effectively used to generate molecular representation. 
 This research investigate how well ChemBERTa as one of the Transformers models generate canonical SMILES representation and 
 perform prediction on Alzheimer’s Drug Candidates dataset. 
