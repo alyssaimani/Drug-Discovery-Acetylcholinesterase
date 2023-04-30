@@ -1,11 +1,9 @@
 # Drug_Discovery_Acetylcholinesterase
-
-This project is aimed to learning the implementation of machine learning in the field of bioinformatics, especially Drug Discovery. 
-This project is a created by following a tutorial from [Chanin Nantasenamat](https://github.com/dataprofessor). 
+The work of this project aims to study the application of machine learning in the field of bioinformatics, especially Drug Discovery.
+This project was created by following a tutorial from [Chanin Nantasenamat](https://github.com/dataprofessor). 
 Then this project continued for the Natural Language Processing coursework at Binus University by fine-tuning the dataset with Transformers model ([ChemBERTa](https://github.com/deepchem/deepchem)).
 
 # Background
-The Process of drug discovery can take decades and cost billions of dollars until it is approved by FDA. 
 The lack of effectiveness of the wet lab approach to test all potential compounds as drug candidates, 
 incur many in silico (computer-driven) approach has been conducted to reach the efficiency.
 Prediction of Molecular properties is one of a crucial task in drug discovery. 
