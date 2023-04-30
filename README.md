@@ -14,3 +14,7 @@ Natural Language Processing (NLP) especially Transformers, recently also became 
 which also have been effectively used to generate molecular representation. 
 This research investigate how well ChemBERTa as one of the Transformers models generate canonical SMILES representation and 
 perform prediction on Alzheimer’s Drug Candidates dataset. 
+
+
+# References
+https://github.com/dataprofessor/bioinformatics_freecodecamp
