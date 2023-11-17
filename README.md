@@ -15,6 +15,17 @@ which also have been effectively used to generate molecular representation.
 This research investigate how well ChemBERTa as one of the Transformers models generate canonical SMILES representation and 
 perform prediction on Alzheimer’s Drug Candidates dataset. 
 
-
+# How to Run the Streamlit App
+ ```shell
+streamlit run app.py
+```
+# Requirement
+transformers==4.24.0
+streamlit==1.22.0
+torch==2.0.1
+torchaudio==2.0.2
+torchvision==0.15.2
+simpletransformers==0.63.11
 # References
 https://github.com/dataprofessor/bioinformatics_freecodecamp
+
