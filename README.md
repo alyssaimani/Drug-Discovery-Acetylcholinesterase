@@ -19,7 +19,7 @@ perform prediction on Alzheimer’s Drug Candidates dataset.
  ```shell
 streamlit run app.py
 ```
-# Requirement
+# Requirements
 ```shell
 transformers==4.24.0
 streamlit==1.22.0
