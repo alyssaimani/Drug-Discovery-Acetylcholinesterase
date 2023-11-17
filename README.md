@@ -20,12 +20,14 @@ perform prediction on Alzheimer’s Drug Candidates dataset.
 streamlit run app.py
 ```
 # Requirement
+```shell
 transformers==4.24.0
 streamlit==1.22.0
 torch==2.0.1
 torchaudio==2.0.2
 torchvision==0.15.2
 simpletransformers==0.63.11
+```
 # References
 https://github.com/dataprofessor/bioinformatics_freecodecamp
 
