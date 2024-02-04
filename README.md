@@ -1,4 +1,4 @@
-# Drug_Discovery_Acetylcholinesterase
+# Drug Discovery Acetylcholinesterase
 The work of this project aims to study the application of machine learning in the field of bioinformatics, especially Drug Discovery.
 This project was created by following a tutorial from [Chanin Nantasenamat](https://github.com/dataprofessor). 
 Then this project continued for the Natural Language Processing coursework at Binus University by fine-tuning the dataset with Transformers model ([ChemBERTa](https://github.com/deepchem/deepchem)).
